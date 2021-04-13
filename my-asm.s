@@ -1,0 +1,3 @@
+.global myfunc
+myfunc:
+	retl

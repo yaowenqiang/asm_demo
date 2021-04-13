@@ -39,3 +39,5 @@
 > gdb ./gdb_test>
 > gdb> set disassembly-flavor intel
 > gdb > disassemble main
+
+> gcc -m32 -c -o my-asm.o my-asm.s
