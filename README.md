@@ -41,3 +41,15 @@
 > gdb > disassemble main
 
 > gcc -m32 -c -o my-asm.o my-asm.s
+
+# install bochs
+
+> downlaod source code
+> ./configure --enable-debugger --enable-disasm
+> make
+> sudo make install
+> ls /etc/bochs-init/
+
+> wget http://www.oldlinux.org/Linux.old/bochs-images/bootroot-0.11-040928.zip
+> sudo apt-get install xorg openbox
+
