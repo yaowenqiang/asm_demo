@@ -53,3 +53,5 @@
 > wget http://www.oldlinux.org/Linux.old/bochs-images/bootroot-0.11-040928.zip
 > sudo apt-get install xorg openbox
 
+> https://sourceware.org/gdb/current/onlinedocs/gdb/index.html#SEC_Contents
+
