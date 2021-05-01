@@ -58,3 +58,4 @@
 > http://161.246.38.75/download/csos/activity05.pdf
 > http://faculty.nps.edu/cseagle/assembly/sys_call.html
 > http://www.linuxassembly.org
+> install dosbox to run debug  on 64 bit windows
