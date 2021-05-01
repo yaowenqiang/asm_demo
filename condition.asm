@@ -1,0 +1,11 @@
+MOV AX, 00
+MOV BX, 00
+MOV CX, 00
+
+L20:
+  ADD AX, 01
+  ADd BX, AX
+  SHL CX, 1
+  JMP L20
+
+
