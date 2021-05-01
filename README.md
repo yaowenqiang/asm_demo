@@ -54,4 +54,7 @@
 > sudo apt-get install xorg openbox
 
 > https://sourceware.org/gdb/current/onlinedocs/gdb/index.html#SEC_Contents
-
+> /usr/include/asm/unistd.h  syscall file 
+> http://161.246.38.75/download/csos/activity05.pdf
+> http://faculty.nps.edu/cseagle/assembly/sys_call.html
+> http://www.linuxassembly.org
